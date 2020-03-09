@@ -1,0 +1,7 @@
+TODO
+
+Set up the next js framework
+set up the tailwind css in react app
+set the graphql in next js framework
+
+Create a demo of graphql

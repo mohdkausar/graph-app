@@ -1,0 +1,10 @@
+body{
+  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+    'Arial', sans-serif;
+  padding: 40px 60px;
+  max-width: 680px;
+  margin: 0 auto;
+}
+.countryImage {
+  background-image: url('https://img.theculturetrip.com/450x/wp-content/uploads/2015/08/hctp0003-india-delhi-rajpath-boulevard-3-1.jpg')
+}
